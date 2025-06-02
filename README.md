@@ -1,7 +1,5 @@
 # Practical-GIT
-Tool for data science 
-kgzkg
-ylzhlc
-yoxtdp
-50sgod
-rksjdt
+#srushti0#
+*sma*
+['https://github.com/srushti0001/Practical-GIT/edit/main/README.md'](URL)
+_hgfe_
